@@ -36,6 +36,5 @@ const Layout = ({ children }: LayoutProps) => {
     </html>
   );
 };
-
 export { metadata };
 export default Layout;
